@@ -5,7 +5,7 @@
 
 
 const biryaniKhor = ['abul', 'babul', 'cabul', 'abul', 'babul', 'dabul', 'kabul', 'cabul'];
-const numbers = [1, 5, 87, 7, 5, 81, 61];
+const numbers = [1, 5, 86, 7, 5, 81, 61];
 
 
 function noDuplicate(array) {
